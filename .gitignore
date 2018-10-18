@@ -1,2 +1,6 @@
 # ignore these files
 
+node_modules
+dist
+prod
+.cache
